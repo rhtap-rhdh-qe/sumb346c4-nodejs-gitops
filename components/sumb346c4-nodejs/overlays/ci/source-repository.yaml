@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sumb346c4-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sumb346c4-nodejs
